@@ -5,7 +5,7 @@ Author: SpoonOS Core Team
 Type: Process
 Status: Draft
 Created: 2025-8-19
-Level: NA
+Level: N/A
 ```
 
 # Table of Contents
@@ -25,7 +25,7 @@ Level: NA
 
 ## What is a SPEP?
 
-SPEP stands for SpoonOS Proposal Enhancement Protocol, a standardized process for submitting, reviewing, and implementing proposals for the SpoonOS ecosystem. SPEP aims to provide a structured framework for community contributions to SpoonOS development.
+SPEP stands for SpoonOS Enhancement Proposal, a standardized process for submitting, reviewing, and implementing proposals for the SpoonOS ecosystem. SPEP aims to provide a structured framework for community contributions to SpoonOS development.
 
 ## Motivation
 

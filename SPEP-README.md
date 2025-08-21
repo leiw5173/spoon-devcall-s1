@@ -1,10 +1,10 @@
-# SpoonOS Proposal Enhancement Protocol (SPEP)
+# SpoonOS Enhancement Proposal (SPEP)
 
-SPEP describes the SpoonOS Proposal Enhancement Protocol (SPEP), a standardized process for submitting, reviewing, and implementing proposals for the SpoonOS ecosystem. SPEP aims to provide a structured framework for community contributions to SpoonOS development.
+SPEP describes the SpoonOS Enhancement Proposal (SPEP), a standardized process for submitting, reviewing, and implementing proposals for the SpoonOS ecosystem. SPEP aims to provide a structured framework for community contributions to SpoonOS development.
 
 ## Contributing to SpoonOS
 
-First review [SPEP-0](./SPEPs/SPEP-0.md) to understand the purpose and guidelines for SPEPs, follow the submission guideline. The SPEP template can be found [here](./SPEPs/SPEP-X.md). 
+First review the [SPEP Purpose and Guidelines document](./SPEPs/SPEP-0.md) to understand the process, then follow the submission guideline. You can use the [SPEP proposal template](./SPEPs/SPEP-X.md) to format your submission.
 
 ## OpenRouter API keys for contributors
 
@@ -12,7 +12,7 @@ To help you try and test the SpoonOS framework, we can provide temporary OpenRou
 
 How to apply:
 
-1. Open a Proposal issue using the template: https://github.com/XSpoonAi/spoon-devcall-s1/issues/
+1. Open a Proposal issue using the template: [SpoonOS Proposal Template](https://github.com/XSpoonAi/spoon-devcall-s1/issues/)
 2. Include this outline:
    - Title and summary
    - Motivation and expected impact
