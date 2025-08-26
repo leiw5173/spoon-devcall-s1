@@ -67,15 +67,12 @@ Each SPEP has one of the following statuses:
 - **Draft**: The initial proposal submission
 - **Accepted**: Approved for implementation
 - **Final**: Successfully implemented and integrated
-- **Deferred**: Postponed for future consideration
 - **Rejected**: Not accepted for implementation
-- **Withdrawn**: Removed by the author
-- **Replaced**: Superseded by another SPEP
 - **Active**: Some Informational and Process SPEPs may also have a status of "Active" if they are never meant to be completed. E.g. SPEP 0 (this SPEP).
 
 The possible paths of the status of SPEPs are as follows:
 
-![SPEP Process](../assets/SPEP-0/process.png)
+<img src="../assets/SPEP-0/process.png" width="300" alt="SPEP Process">
 
 ## What belongs in a successful SPEP?
 
