@@ -18,7 +18,6 @@ Level: N/A
 - [What belongs in a successful SPEP?](#what-belongs-in-a-successful-spep)
 - [SPEP Template](#spep-template)
 - [Submission Process](#submission-process)
-- [Rewards Structure](#rewards-structure)
 - [SPEP Editors](#spep-editors)
 - [SPEP Editor Responsibilities & Workflow](#spep-editor-responsibilities--workflow)
 - [Resources](#resources)
@@ -123,16 +122,6 @@ The following is the standardized process for submitting a new SPEP:
 8. **Await review decision** - The SpoonOS core team will evaluate your proposal based on the review criteria outlined below. They may request additional revisions or clarifications.
 
 9. **Implement if accepted** - If your SPEP is accepted, proceed with implementation according to the guidelines provided in this document.
-
-## Rewards Structure
-
-SpoonOS offers three Levels of rewards for contributions:
-
-- **S Level ($1600)**: For significant contributions that have a major impact on the SpoonOS ecosystem. These include implementing core protocol changes, creating new foundational components, or developing solutions that substantially enhance security, scalability, or interoperability across the ecosystem.
-
-- **A Level ($800)**: For valuable contributions that have a positive impact on the SpoonOS community. These include developing new features, creating comprehensive documentation, implementing significant improvements to existing components, or building tools that enhance developer experience.
-
-- **B Level ($400)**: For minor contributions that have a modest impact on the SpoonOS ecosystem. These include bug fixes, small feature enhancements, documentation improvements, or quality-of-life updates that improve usability.
 
 ## SPEP Editors
 
